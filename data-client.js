@@ -37,4 +37,6 @@ const dataClients = [
 
     ];
 
+module.exports= dataClients;
+
     
